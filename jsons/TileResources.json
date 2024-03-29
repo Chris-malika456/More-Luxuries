@@ -1,15 +1,15 @@
 [
 	// Luxury res
 	{
-		"name": "Amber",
+		"name": "Honey",
 		"resourceType": "Luxury",
 		"terrainsCanBeFoundOn": [ "Forest", "Tundra", "Grassland", "Plains" ],
 		"gold": 2,
-		"improvement": "Mine",
+		"improvement": "Plantation",
 		"improvementStats": { "gold": 1 }
 	},
 	{
-		"name": "Coffee",
+		"name": "Beans",
 		"resourceType": "Luxury",
 		"terrainsCanBeFoundOn": [ "Grassland", "Plains" ],
 		"gold": 2,
@@ -17,7 +17,7 @@
 		"improvementStats": { "gold": 1 }
 	},
 	{
-		"name": "Coral",
+		"name": "Salmon",
 		"resourceType": "Luxury",
 		"terrainsCanBeFoundOn": [ "Coast" ],
 		"gold": 2,
@@ -25,7 +25,7 @@
 		"improvementStats": { "gold": 1 }
 	},
 	{
-		"name": "Jade",
+		"name": "Bronze",
 		"resourceType": "Luxury",
 		"terrainsCanBeFoundOn": [ "Grassland", "Plains", "Desert", "Tundra" ],
 		"gold": 2,
@@ -33,7 +33,7 @@
 		"improvementStats": { "gold": 1 }
 	},
 	{
-		"name": "Lapis Lazuli",
+		"name": "Sapphire",
 		"resourceType": "Luxury",
 		"terrainsCanBeFoundOn": [ "Grassland", "Plains", "Desert", "Tundra", "Hill" ],
 		"gold": 2,
@@ -41,7 +41,7 @@
 		"improvementStats": { "gold": 1 }
 	},
 	{
-		"name": "Olives",
+		"name": "Pineapple",
 		"resourceType": "Luxury",
 		"terrainsCanBeFoundOn": [ "Grassland", "Plains" ],
 		"gold": 1,
@@ -53,7 +53,7 @@
 		}
 	},
 	{
-		"name": "Perfume",
+		"name": "Barley",
 		"resourceType": "Luxury",
 		"terrainsCanBeFoundOn": [ "Grassland", "Plains" ],
 		"gold": 2,
@@ -61,7 +61,7 @@
 		"improvementStats": { "gold": 1 }
 	},
 	{
-		"name": "Tea",
+		"name": "Sorghum",
 		"resourceType": "Luxury",
 		"terrainsCanBeFoundOn": [ "Grassland", "Plains" ],
 		"gold": 2,
@@ -69,7 +69,7 @@
 		"improvementStats": { "gold": 1 }
 	},
 	{
-		"name": "Tobacco",
+		"name": "Lentils",
 		"resourceType": "Luxury",
 		"terrainsCanBeFoundOn": [ "Grassland", "Plains" ],
 		"gold": 2,
@@ -78,7 +78,7 @@
 	},
 	// Unique res
 	{
-		"name": "Glass",
+		"name": "Magnesium",
 		"resourceType": "Luxury",
 		"gold": 2,
 		"uniques": ["Can only be created by Mercantile City-States"]
